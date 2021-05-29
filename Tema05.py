@@ -5,7 +5,6 @@ for i in range (300):
     a[i] = n
 i = 0
 for i in range (300):
-    a = int (input())
     if (a[i] % 2 == 0):
         print (a)
     else:
